@@ -125,3 +125,16 @@
   div.user a{
     color: #30475e;
   }
+  h3.box{
+    background-color: lightseagreen;
+    width: 700px;
+    font-weight: 600;
+    margin: 0 auto;
+    padding: 8px 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  h3.box a{
+    color: black;
+  }

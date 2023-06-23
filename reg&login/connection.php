@@ -1,6 +1,6 @@
 <?php
 
-$con = new mysqli("localhost", "root", "", "alcantara");
+$con = new mysqli("localhost", "root", "", "teste");
 
 if(mysqli_connect_error())
 {
